@@ -1,20 +1,20 @@
 [![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://github.com/Dipeshgithub1)
-<h1 align="center">Hi 👋, I'm Dipesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Dipesh</h1>
 <h3 align="center">A highly motivated individual passionate about learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipeshgithub1&label=Profile%20views&color=0e75b6&style=flat" alt="Dipeshgithub1" /> </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects and Problem Solving**
 
-- 🌱 I’m currently getting better at **TypeScript & NextJS**
+- 🌱 I’m currently getting better at **JavaScript & NextJS**
 
 - 💬 Ask me about **Full Stack Web Development 👻, Competitive Programming 🦄**
 
-- 📫 How to reach me: **dipesh.kumar@example.com** <!-- Add your own contact email -->
+- 📫 How to reach me: **dipesh.bcasdu@gmail.com** <!-- Add your own contact email -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://x.com/Dipeshmehr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/your-linkedin-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/your-codechef-handle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/your-gfg-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeks-for-geeks" height="30" width="40" /></a>
